@@ -3,11 +3,6 @@ Examples and notes to aid revision for the Oracle Certified Professional (OCP) U
 
 <a href="https://education.oracle.com/upgrade-java-se-7-to-java-se-8-ocp-programmer/pexam_1Z0-810" ><img src="https://raw.githubusercontent.com/rysharprules/Java-SE8-Upgrade-Exam/master/ocp_logo.gif" /></a>
 
-## Additional Help
-
-- <a href="http://java.boot.by/ocpjp7-upgrade/">Upgrade to Java SE 7 Programmer (1Z0-805) Guide by Mikalai Zaikin</a> - Really easy to understand guides with additional content (e.g. quizzes with answers and detailed explanations) available upon request.
-- <a href="https://www.amazon.co.uk/Certified-Professional-Programmer-1Z0-804-1Z0-805/dp/1430247649">Oracle Certified Professional Java SE 7 Programmer Exams 1Z0-804 and 1Z0-805: A Comprehensive OCPJP 7 Certification Guide (Expert's Voice in Java) Paperback – 25 Feb 2013</a> - Well written and easy to follow book with end of chapter quizzes.
-
 ## Exam Topics
 
 ### [Lambda Expressions](https://github.com/rysharprules/Java-SE8-Upgrade-Exam/tree/master/src/ocp/study/part1)
